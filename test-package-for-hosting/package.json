@@ -1,0 +1,22 @@
+{
+  "name": "academy",
+  "version": "0.0.1",
+  "description": "Hello!",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=Academy-env mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robot72/node-screencast.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Robert k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robot72/node-screencast/issues"
+  },
+  "homepage": "https://github.com/Robot72/node-screencast#readme"
+}
